@@ -1,13 +1,12 @@
 package proyecto_bases;
 
-public class Ejecuta_consultas {
+public class Ejecucion_sql {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-			Consulta Consulta_1=new Consulta();
+			Actualizacion act_1=new Actualizacion();
 			
-			Consulta_1.Recorre_consulta();
 	}
 
 }
